@@ -13,8 +13,8 @@ tetracorr(data, varlist)
 }
 \value{
 list containing a data frame with tetrachoric correlation coefficients,
-and the sum of the tetrachoric correlations if the input variable was in
-p-value form.
+        and the sum of the tetrachoric correlations if the input variable was in
+        p-value form.
 }
 \description{
 This function calculates the tetrachoric correlations between pairs of variables
@@ -29,7 +29,7 @@ input variable was in p-value form.
   tetracorr(snp_example, varlist)
 }
 \seealso{
-\code{\link{polychor}}
+\code{\link[polycor]{polychor}}
 }
 \author{
 Woo Jung

@@ -18,7 +18,7 @@
 #' }
 #'
 #' @author Woo Jung
-#' @seealso \code{\link{polychor}}
+#' @seealso \code{\link[polycor]{polychor}}
 polycorr <- function(data, varlist) {
 
   # Create empty data frame to store correlations

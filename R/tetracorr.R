@@ -16,7 +16,7 @@
 #' @export
 #'
 #' @author Woo Jung
-#' @seealso \code{\link{polychor}}
+#' @seealso \code{\link[polycor]{polychor}}
 #'
 #' @examples
 #'   data(snp_example)

@@ -4,10 +4,10 @@ library(magrittr)
 library(dplyr)
 
 ## ----install_CRAN, eval=FALSE-------------------------------------------------
-#  install.packages("corrmeta")
+# install.packages("corrmeta")
 
 ## ----install_github, eval=FALSE-----------------------------------------------
-#  devtools::install_github("wsjung/corrmeta")
+# devtools::install_github("wsjung/corrmeta")
 
 ## ----install_load-------------------------------------------------------------
 library(corrmeta)

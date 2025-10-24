@@ -28,7 +28,7 @@ the variables, the polychoric correlation coefficient, and its standard error.
 
 }
 \seealso{
-\code{\link{polychor}}
+\code{\link[polycor]{polychor}}
 }
 \author{
 Woo Jung
